@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+what i will do in this project i will update here step by step for the reference for myself 
+
+step 1:- i am using charkra ui inside the app
+npx create-react-app my-app --template @chakra-ui
+
+step 2:- react router dom 
+npm i react-router-dom 
+
+step 3:- i am installing carousel for futhere uses
+npm i  react-responsive-carousel
