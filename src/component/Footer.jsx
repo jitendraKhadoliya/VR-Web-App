@@ -5,9 +5,9 @@ import { Link } from "@chakra-ui/react";
 
 
 const Footer =()=>{
-    return <Box minH={'40'} bgColor={"blackAlpha.900"}  color = {"white"} p ="16">
-        <Stack direction={['column','row']}>
-            <VStack alignItems={"stretch"} w={"full"} px={"4"}>
+    return <Box minH={"20vh"} bgColor={"blackAlpha.900"}  color = {"white"} p={"6"} >
+        <Stack direction={['column','row']} >
+            <VStack alignItems={"stretch"} w={"full"} >
                 <Heading textTransform={"capitalize"} size="md" textAlign={['center','left']}>
                     Subscribe to get updates
                 </Heading>
