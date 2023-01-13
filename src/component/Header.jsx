@@ -33,7 +33,7 @@ const Header = ()=>{
         <DrawerContent>
         <DrawerCloseButton/>
             <DrawerHeader>
-                VR Videos 
+            VR Oasis
             </DrawerHeader>
             <DrawerBody>
 

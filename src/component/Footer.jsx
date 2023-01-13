@@ -28,7 +28,7 @@ const Footer =()=>{
             borderLeft ={["none","1px solid white"]}
             borderRight ={["none","1px solid white"]}
             >
-                <Heading textAlign={"center"} textTransform="uppercase" >VR videos</Heading>
+                <Heading textAlign={"center"} textTransform="uppercase" >VR Oasis</Heading>
                 <Text>All Right Received</Text>
             </VStack>
 
